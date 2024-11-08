@@ -4,6 +4,8 @@
     <h1 style="color: aqua; font-size: 36px; font-weight: bold;">👋 Hi, I'm Aryan</h1>
     <br>
 </div>
+
+### About Me
 &nbsp;   &nbsp; ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast.;Passionate+Developer.;Interested+in+Bot+Development.)
 
 ## 🛠️ Tech Stack
